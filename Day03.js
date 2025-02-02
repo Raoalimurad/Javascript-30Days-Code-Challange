@@ -1,6 +1,6 @@
 // DAY O3
 
-// HOW TO FIND ODD OR EVEN NUMBER 
+// HOW TO FIND ODD OR EVEN NUMBER In ARRAY
 
 
 // var numbers = [1,2,3,4,5,6,7,8,9,10];
